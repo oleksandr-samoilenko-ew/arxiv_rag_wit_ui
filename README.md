@@ -6,6 +6,10 @@
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 ![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
 
+
+https://github.com/user-attachments/assets/6848aeac-587c-49bc-ae17-46f011bd0508
+
+
 ## About
 
 Arxiv RAG (Retriever-Augmented Generation) is a sophisticated web application and API designed for generating notes and answering questions on Arxiv papers using advanced AI technologies. The application leverages Large Language Models (LLMs) to process and understand scientific papers, providing users with insightful summaries and answers to complex queries. The Unstructured API is utilized for parsing and chunking PDFs, allowing for efficient handling and analysis of large documents. Additionally, Supabase is employed to manage the PostgreSQL database, which is integral for storing document embeddings and performing efficient queries.
